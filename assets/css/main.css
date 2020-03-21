@@ -17,6 +17,8 @@ p.copyright {
     font-size: 0.3em;
 }
 
+
+}
 /*div.p {
   width: 80%;
   background-color: white;
@@ -35,6 +37,31 @@ img {
   margin-left: 4cm;
   margin-right: auto;
   width: 50%;
+}
+
+#i2 {
+	margin-top: 1.90cm;
+	display:block;
+	height:auto;
+	width: auto;
+	float: left;
+}
+
+#i3 {
+	margin-top: 1.20cm;
+	margin-left: 9cm;
+	display:block;
+	height:auto;
+	width: auto;
+	float: right;
+}
+
+#i4 {
+	margin-top: 1.20cm;
+	display:block;
+	height:auto;
+	width: auto;
+	float: right;
 }
 
 div.cont {
@@ -82,7 +109,20 @@ div.cont {
         font-style: italic;
         font-variant: small-caps;
         text-transform: none;
-        }
+		}
+		
+		#t4 {
+		   font-family: 'Times New Roman', Times, serif;
+		   font-size: 12px;
+		   letter-spacing: 2px;
+		   word-spacing: 2px;
+		   color: B7B7B7;
+		   font-weight: normal;
+		   text-decoration: none;
+		   font-style: normal;
+		   font-variant: normal;
+		   text-transform: lowercase;
+		}
 
         /*Decorations*/
 
